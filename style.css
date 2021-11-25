@@ -1,0 +1,102 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: cursive;
+
+}
+
+body{
+    /* background-color: blueviolet; */
+    background-image: url(free-video-852292.jpg);
+  
+ 
+}
+.container{
+    height: 550px;
+    width: 550px;
+    background-color: white;
+    border-radius: 60px;
+    margin-left: 380px;
+    margin-top: 80px;
+    position: absolute;
+}
+.heading{
+    margin-top: 20px;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin-left: 140px;
+    border-radius: 20px;
+    background-color: blue;
+    position: relative;
+    color: white;
+    
+}
+.user{
+    margin-top: 40px;
+    margin-left: 150px;
+
+
+}
+.user input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+    
+}
+.password{
+margin-left: 150px;
+margin-top: 30px;
+}
+.password input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+
+}
+.forgot{
+    margin-left: 140px;
+    margin-top: 30px;
+    color: violet;
+    cursor: pointer;
+}
+.keep{
+    margin-left: 150px;
+    margin-top: 60px;
+    
+
+}
+
+.keep input{
+    cursor: pointer;
+    
+    
+
+}
+.keep button{
+    margin-left: 55px;
+    width: 80px;
+    border-radius: 55px;
+    background-color: darkblue;
+    color: white;
+    cursor: all-scroll;
+
+}
+.btn1:hover{
+    color:red;
+    background-color:  lightgreen;
+}
+.re:hover{
+    color: seagreen;
+}
+.icon{
+    margin-left: 250px;
+    margin-top: 50px;
+   font-size: 50px;
+  
+}
+.design{
+    margin-left: 210px;
+    font-size: 15px;
+}
